@@ -1,2 +1,2 @@
 # MemoryStash
-An inventory management system.
+MemoryStash is an inventory management system.
