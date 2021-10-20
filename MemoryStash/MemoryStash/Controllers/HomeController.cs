@@ -1,4 +1,5 @@
-﻿using MemoryStash.Models;
+﻿using MemoryStash.DAL;
+using MemoryStash.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -12,7 +13,7 @@ namespace MemoryStash.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        private IUserDal UserDal = new UserDal();
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -20,6 +21,14 @@ namespace MemoryStash.Controllers
 
         public IActionResult Index()
         {
+            User loggedInUser = UserDal.GetUser("", "");
+            if(loggedInUser != null)
+            {
+                // redir to home
+            }
+
+            // show error
+
             return View();
         }
 
