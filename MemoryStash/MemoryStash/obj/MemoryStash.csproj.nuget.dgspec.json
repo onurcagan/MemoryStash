@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pelin\\OneDrive\\Masaüstü\\MemoryStash\\MemoryStash\\MemoryStash\\MemoryStash.csproj": {}
+    "C:\\Users\\onurc\\Desktop\\C# Projects\\MemoryStash\\MemoryStash\\MemoryStash\\MemoryStash.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pelin\\OneDrive\\Masaüstü\\MemoryStash\\MemoryStash\\MemoryStash\\MemoryStash.csproj": {
+    "C:\\Users\\onurc\\Desktop\\C# Projects\\MemoryStash\\MemoryStash\\MemoryStash\\MemoryStash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pelin\\OneDrive\\Masaüstü\\MemoryStash\\MemoryStash\\MemoryStash\\MemoryStash.csproj",
+        "projectUniqueName": "C:\\Users\\onurc\\Desktop\\C# Projects\\MemoryStash\\MemoryStash\\MemoryStash\\MemoryStash.csproj",
         "projectName": "MemoryStash",
-        "projectPath": "C:\\Users\\pelin\\OneDrive\\Masaüstü\\MemoryStash\\MemoryStash\\MemoryStash\\MemoryStash.csproj",
-        "packagesPath": "C:\\Users\\pelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pelin\\OneDrive\\Masaüstü\\MemoryStash\\MemoryStash\\MemoryStash\\obj\\",
+        "projectPath": "C:\\Users\\onurc\\Desktop\\C# Projects\\MemoryStash\\MemoryStash\\MemoryStash\\MemoryStash.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\Desktop\\C# Projects\\MemoryStash\\MemoryStash\\MemoryStash\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\pelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -76,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
