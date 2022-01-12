@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MemoryStash",
-    "\\MemoryStash\\MemoryStash",
-    "\\MemoryStash\\MemoryStash\\bin",
-    "\\MemoryStash\\MemoryStash\\obj"
+    "\\MemoryStash"
   ],
-  "SelectedNode": "\\MemoryStash\\MemoryStash\\MemoryStash.csproj",
+  "SelectedNode": "\\MemoryStash\\MemoryStash.sln",
   "PreviewInSolutionExplorer": false
 }
