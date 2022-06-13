@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "9c3dbb00-e815-4ac3-882e-8024657175d1": {
+      "ProjectGuid": "9c3dbb00-e815-4ac3-882e-8024657175d1",
+      "DisplayName": "MemoryStash.Test",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
