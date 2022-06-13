@@ -1,4 +1,5 @@
-﻿using MemoryStash.Models;
+﻿//using MemoryStash.DAL;
+using MemoryStash.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,31 +8,39 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MemoryStash.Controllers
-{
-    public class HomeController : Controller
-    {
-        private readonly ILogger<HomeController> _logger;
+//namespace MemoryStash.Controllers
+//{
+//    public class HomeController : Controller
+//    {
+//        private readonly ILogger<HomeController> _logger;
+//        private IUserDal UserDal = new UserDal();
+//        public HomeController(ILogger<HomeController> logger)
+//        {
+//            _logger = logger;
+//        }
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+//        public IActionResult Index()
+//        {
+//            User loggedInUser = UserDal.GetUser("", "");
+//            if (loggedInUser != null)
+//            {
+//                // redir to home
+//            }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+//            // show error
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+//            return View();
+//        }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
-    }
-}
+//        public IActionResult Privacy()
+//        {
+//            return View();
+//        }
+
+//        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+//        public IActionResult Error()
+//        {
+//            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+//        }
+//    }
+//}
