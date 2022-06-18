@@ -14,7 +14,6 @@ C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\bin\
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\bin\Debug\net6.0\MemoryStash.Test.deps.json
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\bin\Debug\net6.0\MemoryStash.Test.runtimeconfig.json
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\bin\Debug\net6.0\MemoryStash.Test.dll
-C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\bin\Debug\net6.0\ref\MemoryStash.Test.dll
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\bin\Debug\net6.0\MemoryStash.Test.pdb
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
@@ -143,3 +142,4 @@ C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\obj\
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\obj\Debug\net6.0\ref\MemoryStash.Test.dll
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\obj\Debug\net6.0\MemoryStash.Test.pdb
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\obj\Debug\net6.0\MemoryStash.Test.genruntimeconfig.cache
+C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash.Test\obj\Debug\net6.0\refint\MemoryStash.Test.dll

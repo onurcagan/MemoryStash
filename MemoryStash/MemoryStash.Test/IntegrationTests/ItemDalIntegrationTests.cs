@@ -16,11 +16,11 @@ namespace MemoryStash.Test
             ItemDal itemDal = new ItemDal();
             DateTime expirationDate = new DateTime(2022, 10, 10);
             List<ItemTag> itemTags = new();
-            
+
 
             //Act
             Item item = itemDal.CreateItem(1, 1, "SomeContainer/Banana", "Banana", expirationDate, itemTags);
-            
+
 
             //Assert
             Assert.NotNull(item);

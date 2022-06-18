@@ -5,7 +5,6 @@ C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\bin\Debug
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\bin\Debug\net6.0\MemoryStash.deps.json
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\bin\Debug\net6.0\MemoryStash.runtimeconfig.json
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\bin\Debug\net6.0\MemoryStash.dll
-C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\bin\Debug\net6.0\ref\MemoryStash.dll
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\bin\Debug\net6.0\MemoryStash.pdb
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\bin\Debug\net6.0\Humanizer.dll
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
@@ -62,3 +61,4 @@ C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\obj\Debug
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\obj\Debug\net6.0\MemoryStash.pdb
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\obj\Debug\net6.0\MemoryStash.genruntimeconfig.cache
 C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\obj\Debug\net6.0\MemoryStash.csproj.AssemblyReference.cache
+C:\Users\onurc\Desktop\C# Projects\MemoryStash\MemoryStash\MemoryStash\obj\Debug\net6.0\refint\MemoryStash.dll
